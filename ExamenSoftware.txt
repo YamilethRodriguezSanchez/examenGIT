@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 La ingenieria de requisitos es la rama de la ingeniería del software o ingeniería de sistemas que se encarga de la realización de actividades en el intento de entender las necesidades exactas de los usuarios de un sistema y traducir éstas a precisas funciones y acciones que subsecuentemente serán usadas en el desarrollo del sistema. , P (1995), System Requirements Engineering. 
 
 EJEMPLO DEL PROCESO DE INGENIERIA DE REQUISITOS

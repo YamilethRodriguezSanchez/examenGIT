@@ -1,0 +1,12 @@
+Que es la Ingenieria de software?
+
+http://www.indielec.com/UserFiles/image/WebinarImage.png
+La Ingeniería del Software es una disciplina o área de la Informática 
+que ofrece métodos y técnicas para desarrollar y mantener software 
+de calidad que resuelven problemas de todo tipo. 
+Existen varias definiciones sobre esta ciencia de la computación 
+que permiten describir este proceso.
+
+Es la aplicación de un enfoque sistemático, disciplinado y cuantificable al desarrollo, 
+operación y mantenimiento de software, y el estudio de estos enfoques, es decir, 
+la aplicación de la ingeniería al software.

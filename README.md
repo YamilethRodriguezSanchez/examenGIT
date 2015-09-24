@@ -1,2 +1,10 @@
 # examenGIT
+Nombre:Guadalupe Yamileth Rodriguez Sanchez
+Usuario: YamilethRodriguezSanchez
+
+Nombre: Luis Fernando Sanchez Arreola
+Usuario: fersanchz
+
+Nombre: Nathanael Martinez Roldan
+Usuario: natanael07
 

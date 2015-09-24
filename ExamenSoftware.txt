@@ -40,7 +40,7 @@ Consiste en poner a disposición del cliente el producto.
 
 
 Etapa de Mantenimiento Mantenimiento:
-<<<<<<< HEAD
+
 Consiste en corregir problemas del producto y re- liberar 
 el producto como una nueva versión o revisión (producto mejorado).
 
@@ -48,7 +48,6 @@ Etapa final EOL (End-of-Life) :
 El fin del ciclo del producto consiste en realizar todas 
 las tareas necesarias para asegurar que los clientes y los 
 empleados están consientes de que el producto ya no será vendido ni soportado. 
-=======
 Consiste en corregir problemas del producto y re- liberar el producto 
 como una nueva versión o revisión (producto mejorado).
 
@@ -56,4 +55,3 @@ Etapa final EOL (End-of-Life) :
 El fin del ciclo del producto consiste en realizar todas las tareas 
 necesarias para asegurar que los clientes y los empleados están consientes 
 de que el producto ya no será vendido ni soportado. 
->>>>>>> ramaYamileth

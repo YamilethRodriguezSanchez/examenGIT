@@ -1,0 +1,9 @@
+HERRAMIENTAS CASE
+Las herramientas CASE (Computer Aided Software Engineering, Ingeniería de Software Asistida por Computadora) 
+son diversas aplicaciones informáticas o programas informáticos destinadas a aumentar la productividad en el 
+desarrollo de software reduciendo el costo de las mismas en términos de tiempo y de dinero.
+
+Estas herramientas pueden ayudar en todos los aspectos del ciclo de vida de desarrollo del software 
+en tareas como el proceso de realizar un diseño del proyecto, cálculo de costos, implementación de 
+parte del código automáticamente con el diseño dado, compilación automática, documentación o 
+detección de errores entre otras. 

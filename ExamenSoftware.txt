@@ -1,5 +1,65 @@
+<<<<<<< HEAD
 La ingenieria de requisitos es la rama de la ingeniería del software o ingeniería de sistemas que se encarga de la realización de actividades en el intento de entender las necesidades exactas de los usuarios de un sistema y traducir éstas a precisas funciones y acciones que subsecuentemente serán usadas en el desarrollo del sistema. , P (1995), System Requirements Engineering. 
 
 EJEMPLO DEL PROCESO DE INGENIERIA DE REQUISITOS
 
 https://www.google.com.mx/search?q=que+es+la+ingenieria+de+requisitos&espv=2&biw=1024&bih=667&site=webhp&source=lnms&tbm=isch&sa=X&ved=0CAYQ_AUoAWoVChMIk63omuCQyAIVAwmSCh1ljATh&dpr=1#imgrc=KAyBsUO0-_kQ8M%3A
+=======
+
+Alumna: Yamileth
+Etapas del desarrollo de software
+Etapa de Análisis Análisis:
+Es el proceso de investigar un problema que se quiere resolver. 
+Definir claramente el Problema que se desea resolver o el sistema que se desea crear. 
+Identificar los componentes principales que integrarán el producto.
+
+Etapa de Diseño Diseño:
+Es el proceso de utilizar la información recolectada en la etapa de 
+análisis al diseño del producto. La principal tarea de la etapa de diseño 
+es desarrollar un modelo o las especificaciones para el producto o Componentes del Sistema.
+
+Etapas de desarrollo de sw
+Etapa de Análisis Análisis:
+Es el proceso de investigar un problema que se quiere resolver. 
+Definir claramente el Problema que se desea resolver o el sistema 
+que se desea crear. Identificar los componentes principales que integrarán el producto.
+
+Etapa de Diseño Diseño:
+Es el proceso de utilizar la información recolectada en la etapa 
+de análisis al diseño del producto. La principal tarea de la etapa 
+de diseño es desarrollar un modelo o las especificaciones para el producto o Componentes del Sistema.
+
+Etapa de Desarrollo Desarrollo:
+Consiste en utilizar los modelos creados durante la etapa de diseño 
+para crear los componentes del sistema.
+
+Etapa de Pruebas o Verificación Prueba:
+Consiste en asegurar que los componentes individuales que integran 
+
+al sistema o producto, cumplen con los requerimientos 
+de la especificación creada durante la etapa de diseño.
+
+al sistema o producto, cumplen con los requerimientos de la especificación 
+creada durante la etapa de diseño.
+
+Etapa de Implementación o Entrega Implantación:
+Consiste en poner a disposición del cliente el producto.
+
+
+Etapa de Mantenimiento Mantenimiento:
+
+Consiste en corregir problemas del producto y re- liberar 
+el producto como una nueva versión o revisión (producto mejorado).
+
+Etapa final EOL (End-of-Life) :
+El fin del ciclo del producto consiste en realizar todas 
+las tareas necesarias para asegurar que los clientes y los 
+empleados están consientes de que el producto ya no será vendido ni soportado. 
+Consiste en corregir problemas del producto y re- liberar el producto 
+como una nueva versión o revisión (producto mejorado).
+
+Etapa final EOL (End-of-Life) :
+El fin del ciclo del producto consiste en realizar todas las tareas 
+necesarias para asegurar que los clientes y los empleados están consientes 
+de que el producto ya no será vendido ni soportado. 
+>>>>>>> origin/master
